@@ -10,3 +10,4 @@ At the end of this project, you expected to be able to explain to anyone, withou
 * what does "Ububtu" mean
 * How to use VMs with Vagrant
 * what does the command uname do
+* what does the command unmame do
